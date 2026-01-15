@@ -11,9 +11,9 @@ Vercel provides the best performance and specialized support for modern frontend
 3.  Click **"Add New..."** -> **"Project"**.
 4.  Import your `modern-frontend-starter` repository.
 5.  **Build Settings**: Vercel detects Vite automatically.
-    *   Framework Preset: `Vite`
-    *   Build Command: `npm run build` (or `pnpm build`)
-    *   Output Directory: `dist`
+    - Framework Preset: `Vite`
+    - Build Command: `npm run build` (or `pnpm build`)
+    - Output Directory: `dist`
 6.  Click **Deploy**.
 
 ## ⚡ Option 2: Netlify
@@ -22,8 +22,8 @@ Vercel provides the best performance and specialized support for modern frontend
 2.  Click **"Add new site"** -> **"Import an existing project"**.
 3.  Connect to GitHub and select your repo.
 4.  **Build Settings**:
-    *   Build Command: `pnpm build`
-    *   Publish directory: `dist`
+    - Build Command: `pnpm build`
+    - Publish directory: `dist`
 5.  Click **Deploy site**.
 
 ## 🐙 Option 3: GitHub Pages

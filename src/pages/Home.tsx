@@ -8,7 +8,7 @@ export default function Home() {
     <div className="space-y-6 pb-8 pt-6 md:pb-12 md:pt-10 lg:py-32">
       <div className="container mx-auto flex max-w-[64rem] flex-col items-center gap-4 px-4 text-center">
         <a
-          href="https://github.com/anish/modern-frontend-starter"
+          href="https://github.com/anish-devgit/modern-frontend-starter"
           className="rounded-2xl bg-muted px-4 py-1.5 text-sm font-medium transition-colors hover:bg-muted/80"
           target="_blank"
         >
@@ -28,7 +28,7 @@ export default function Home() {
           </Button>
           <Button size="lg" variant="outline" asChild>
             <a
-              href="https://github.com/anish/modern-frontend-starter"
+              href="https://github.com/anish-devgit/modern-frontend-starter"
               target="_blank"
               rel="noreferrer"
             >

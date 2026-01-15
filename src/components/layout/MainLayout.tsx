@@ -22,7 +22,7 @@ export function MainLayout() {
               </Button>
               <Button variant="ghost" size="icon" asChild>
                 <a
-                  href="https://github.com/anish/modern-frontend-starter"
+                  href="https://github.com/anish-devgit/modern-frontend-starter"
                   target="_blank"
                   rel="noreferrer"
                 >
@@ -45,16 +45,16 @@ export function MainLayout() {
           <p className="text-center text-sm leading-loose text-muted-foreground md:text-left">
             Built by{' '}
             <a
-              href="https://github.com/anish"
+              href="https://github.com/anish-devgit"
               target="_blank"
               rel="noreferrer"
               className="font-medium underline underline-offset-4"
             >
-              anish
+              anish-devgit
             </a>
             . The source code is available on{' '}
             <a
-              href="https://github.com/anish/modern-frontend-starter"
+              href="https://github.com/anish-devgit/modern-frontend-starter"
               target="_blank"
               rel="noreferrer"
               className="font-medium underline underline-offset-4"

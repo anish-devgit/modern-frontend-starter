@@ -21,7 +21,7 @@ export default function About() {
           <CardContent>
             <Button asChild variant="secondary">
               <a
-                href="https://github.com/anish/modern-frontend-starter#getting-started"
+                href="https://github.com/anish-devgit/modern-frontend-starter#getting-started"
                 target="_blank"
                 rel="noreferrer"
               >
