@@ -1,16 +1,16 @@
 ## Summary
-<!-- Explain what this PR does and why. -->
+<!-- What does this PR do? -->
 
 ## Type of Change
 - [ ] 🐛 Bug fix
 - [ ] ✨ New feature
-- [ ] 📖 Documentation update
-- [ ] 🧹 Refactor / Chore
+- [ ] 📖 Documentation
+- [ ] 🧹 Refactor
 
 ## Checklist
-- [ ] My code follows the code style of this project
-- [ ] I have run `pnpm test` and `pnpm lint` successfully
-- [ ] I have added tests for my changes (if applicable)
+- [ ] I have run `pnpm lint`
+- [ ] I have run `pnpm test`
+- [ ] My code is clean and understandable
 
 ## Linked Issue
 <!-- Closes #123 -->

@@ -8,13 +8,10 @@ assignees: ''
 ---
 
 ### Problem
-<!-- Is your feature request related to a problem? Please describe. -->
+<!-- What is the problem you want to solve? -->
 
 ### Proposed Solution
-<!-- Describe the solution you'd like. Be specific. -->
+<!-- How should we fix it or what feature should we add? -->
 
-### Alternatives Considered
-<!-- Any particular reason you chose this approach? -->
-
-### Additional Context
-<!-- Screenshots, mockups, etc. -->
+### Why is this needed?
+<!-- Who benefits from this? -->

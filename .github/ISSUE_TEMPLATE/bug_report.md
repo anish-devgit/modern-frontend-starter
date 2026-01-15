@@ -8,7 +8,7 @@ assignees: ''
 ---
 
 ### Description
-<!-- A clear and concise description of what the bug is. -->
+<!-- Briefly describe the bug by answering: What happened? -->
 
 ### Steps to Reproduce
 1. Go to '...'
@@ -16,14 +16,10 @@ assignees: ''
 3. See error
 
 ### Expected Behavior
-<!-- What you expected to happen -->
+<!-- What did you expect to happen? -->
 
 ### Actual Behavior
-<!-- What actually happened -->
+<!-- What actually happened? -->
 
 ### Screenshots
-<!-- If applicable, add screenshots to help explain your problem. -->
-
-### Environment
-- OS: [e.g. macOS, Windows]
-- Browser: [e.g. Chrome, Firefox]
+<!-- Optional: Add screenshots to help us see the problem. -->

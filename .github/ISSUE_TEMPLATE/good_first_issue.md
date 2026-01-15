@@ -1,17 +1,17 @@
 ---
 name: 🌱 Good First Issue
-about: A task suitable for beginners
+about: Suggest a task for beginners
 title: "GFI: "
 labels: ["good first issue"]
 assignees: ''
 
 ---
 
-### Description
-<!-- A brief description of the task suitable for a first-time contributor. -->
+### Task Description
+<!-- Describe the task simply. -->
 
-### Resources
-<!-- Links to relevant files or documentation to help the contributor. -->
+### Hints / Resources
+<!-- Point the user to the right file or docs. -->
 
 ### Mentorship
-<!-- Mention if you are available to mentor on this issue. -->
+<!-- Are you willing to help a beginner with this? -->

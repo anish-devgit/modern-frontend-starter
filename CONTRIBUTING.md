@@ -2,21 +2,19 @@
 
 ## 👋 New to Open Source? Start Here.
 
-We love beginners. If you've never created a Pull Request (PR) before, this is the perfect repo to start.
+Welcome! We love beginners. If you've never created a Pull Request (PR) before, this is the safe place to learn.
 
-### **Quick Contribution Rules**
-1.  **Don't be afraid to break things**: We have tests and CI to catch it.
-2.  **Ask for help**: Tag us in your PR if you're stuck.
-3.  **No Ghosting**: If you pick an issue, try to push *something* within 7 days.
-
----
+**Our Promise:**
+*   We will not judge you for mistakes.
+*   We will guide you if you get stuck.
+*   We appreciate every contribution, no matter how small.
 
 ## 🚀 How to Contribute
 
 ### 1. Pick an Issue
 Look for labels:
-- `good first issue` (Recommended for beginners)
-- `help wanted`
+*   `good first issue` (Perfect for your first time)
+*   `help wanted` (Slightly more involved)
 
 ### 2. Fork & Clone
 ```bash
@@ -25,11 +23,9 @@ cd modern-frontend-starter
 pnpm install
 ```
 
-### 3. Create a Branch
+### 3. Branch
 ```bash
-git checkout -b fix/my-fix-name
-# or
-git checkout -b feat/my-new-feature
+git checkout -b fix/issue-name
 ```
 
 ### 4. Code & Test
@@ -39,18 +35,15 @@ pnpm test   # Ensure tests pass
 pnpm lint   # Ensure code style is perfect
 ```
 
-### 5. Push & Open PR
-Push to your fork and click "Compare & pull request" on GitHub.
-Fill out the PR Template. We usually review within 24-48 hours.
+### 5. Submit PR
+Push to your fork and click "Compare & pull request" on GitHub. Fill out the template. Done!
 
 ---
 
-## 💅 Code Style
-- **TypeScript**: No `any` type (unless absolutely necessary).
-- **Tailwind**: Use utility classes. No arbitrary values (e.g. `w-[245px]`) if possible.
-- **Naming**: PascalCase for Components, camelCase for functions/vars.
-
----
+## 💅 Code Style Rules
+1.  **Strict Types**: Avoid `any` if possible.
+2.  **Tailwind**: Use utility classes. Avoid `style={{}}` props.
+3.  **Naming**: `PascalCase` for Components, `camelCase` for functions.
 
 ## 🆘 Getting Help
-Comment on the issue you are working on. We are watching!
+Stuck? Just comment on the issue: "I'm working on this but stuck on X." We'll help you out!

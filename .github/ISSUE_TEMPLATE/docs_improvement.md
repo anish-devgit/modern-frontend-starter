@@ -7,11 +7,11 @@ assignees: ''
 
 ---
 
-### Page/Section
-<!-- Link to the page or describe the section that needs improvement -->
+### Page / Section
+<!-- Link to the page or name of the section -->
 
-### What needs to be fixed?
-<!-- Typo, unclear explanation, missing info? -->
+### What is wrong?
+<!-- Typo, confusing explanation, or missing info? -->
 
-### Proposed Change
-<!-- What should it say instead? -->
+### How should we fix it?
+<!-- Write the correct text here if you know it -->
