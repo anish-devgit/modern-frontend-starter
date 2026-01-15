@@ -27,5 +27,5 @@
 ## Key Decisions
 
 - **`src/app`**: The "Kernel". Contains everything needed to bootstrap the app.
-- **`src/lib/config.ts`**: The only place `import.meta.env` should be accessed. 
+- **`src/lib/config.ts`**: The only place `import.meta.env` should be accessed.
 - **Fail-Fast**: The app will not start in development if required env vars are missing.

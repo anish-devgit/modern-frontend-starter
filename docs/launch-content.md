@@ -3,6 +3,7 @@
 Ready to launch? Copy-paste these.
 
 ## 🟢 GitHub Repository Description
+
 **Short**: A production-ready React starter kit. React, Vite, TS, Tailwind, and Shadcn without the bloat.
 **Tags**: react, vite, typescript, tailwindcss, starter-kit, production-ready, shadcn-ui
 
@@ -43,6 +44,7 @@ I got tired of setting up ESLint, Prettier, Tailwind, and Testing libraries ever
 Introducing **Modern Frontend Starter**.
 
 It’s not just a "Hello World". It’s a production-grade engine including:
+
 - **Architecture**: Scalable `src/app` kernel.
 - **Components**: Accessible UI primitives (Radix + Tailwind).
 - **Safety**: Fail-fast config validation.
@@ -66,6 +68,7 @@ I got tired of "starter kits" that were either too simple (just create-vite) or 
 
 I built **Modern Frontend Starter** to be the "Engine" in the middle.
 It focuses on Developer Experience and correct architecture:
+
 - React 19 / Vite / TS / Tailwind
 - Strict Directory Structure (`src/app`, `src/lib`, `src/components`)
 - Real components (Input, Dialog, etc.) not just demos

@@ -2,93 +2,61 @@
   {
     "title": "Docs: Fix typos in README",
     "body": "## Description\nThere might be some typos in the README.md.\n\n## Acceptance Criteria\n- [ ] Proofread README.md\n- [ ] Fix any typos found",
-    "labels": [
-      "documentation",
-      "good first issue"
-    ]
+    "labels": ["documentation", "good first issue"]
   },
   {
     "title": "UI: Improve button hover state",
     "body": "## Description\nThe button hover state could be more pronounced.\n\n## Acceptance Criteria\n- [ ] Increase contrast on hover\n- [ ] Add subtle scale effect",
-    "labels": [
-      "enhancement",
-      "ui"
-    ]
+    "labels": ["enhancement", "ui"]
   },
   {
     "title": "Feature: Add a 'Contact' section to landing page",
     "body": "## Description\nWe need a contact section with a dummy form or email link.\n\n## Acceptance Criteria\n- [ ] Create Contact component\n- [ ] Add to LandingPage",
-    "labels": [
-      "enhancement",
-      "good first issue"
-    ]
+    "labels": ["enhancement", "good first issue"]
   },
   {
     "title": "Bug: Dark mode flicker on load",
     "body": "## Description\nInvestigate if there is any flash of unstyled content (FOUC) for theme.\n\n## Acceptance Criteria\n- [ ] Verify script in index.html (if applicable) or efficient hydration",
-    "labels": [
-      "bug",
-      "investigation"
-    ]
+    "labels": ["bug", "investigation"]
   },
   {
     "title": "Refactor: Extract 'Hero' component",
     "body": "## Description\nThe LandingPage.tsx is getting large. Extract the Hero section.\n\n## Acceptance Criteria\n- [ ] Create src/components/layout/hero.tsx\n- [ ] Move hero code there",
-    "labels": [
-      "refactor",
-      "good first issue"
-    ]
+    "labels": ["refactor", "good first issue"]
   },
   {
     "title": "Tooling: Add Husky for pre-commit hooks",
     "body": "## Description\nEnsure linting runs before commit.\n\n## Acceptance Criteria\n- [ ] Install husky\n- [ ] Configure pre-commit hook",
-    "labels": [
-      "tooling"
-    ]
+    "labels": ["tooling"]
   },
   {
     "title": "Accessibility: Audit color contrast",
     "body": "## Description\nEnsure all colors meet WCAG AA standards.\n\n## Acceptance Criteria\n- [ ] Run lighthouse audit\n- [ ] Fix reported contrast issues",
-    "labels": [
-      "accessibility"
-    ]
+    "labels": ["accessibility"]
   },
   {
     "title": "Tests: Add test for ThemeToggle",
     "body": "## Description\nVerify theme toggle switches classes.\n\n## Acceptance Criteria\n- [ ] Create src/components/theme-toggle.test.tsx\n- [ ] Test click behavior",
-    "labels": [
-      "testing",
-      "good first issue"
-    ]
+    "labels": ["testing", "good first issue"]
   },
   {
     "title": "Docs: Add deployment guide",
     "body": "## Description\nAdd a guide for deploying to Vercel/Netlify.\n\n## Acceptance Criteria\n- [ ] Create docs/deployment.md\n- [ ] Document Vercel steps",
-    "labels": [
-      "documentation"
-    ]
+    "labels": ["documentation"]
   },
   {
     "title": "Feature: Add a 'Scroll to Top' button",
     "body": "## Description\nLong pages need a quick way to scroll up.\n\n## Acceptance Criteria\n- [ ] Create ScrollToTop component\n- [ ] Show when scrolled down 300px",
-    "labels": [
-      "enhancement",
-      "ui"
-    ]
+    "labels": ["enhancement", "ui"]
   },
   {
     "title": "UI: Add a loading spinner component",
     "body": "## Description\nWe need a standard spinner for loading states.\n\n## Acceptance Criteria\n- [ ] Create src/components/ui/spinner.tsx\n- [ ] Use SVG or CSS animation",
-    "labels": [
-      "enhancement",
-      "ui"
-    ]
+    "labels": ["enhancement", "ui"]
   },
   {
     "title": "Chore: Update dependencies",
     "body": "## Description\nKeep packages up to date.\n\n## Acceptance Criteria\n- [ ] Run pnpm outdated\n- [ ] Update minor versions",
-    "labels": [
-      "chore"
-    ]
+    "labels": ["chore"]
   }
 ]
